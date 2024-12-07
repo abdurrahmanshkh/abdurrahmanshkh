@@ -1,4 +1,4 @@
-# Hi there, I'm Abdurrahman Shkh! 👋
+# Hi there, I'm Abdur Rehman Shaikh! 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about coding and open-source contributions.
 
